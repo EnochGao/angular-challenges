@@ -8,6 +8,7 @@ contributors:
   - dmmishchenko
   - kabrunko-dev
   - svenson95
+  - enochgao
 challengeNumber: 1
 command: angular-projection
 blogLink: https://medium.com/@thomas.laforge/create-a-highly-customizable-component-cc3a9805e4c5
@@ -32,7 +33,7 @@ sidebar:
 
 有了这两个工具，您现在就可以接受挑战了。
 
-## 说明
+## 声明
 
 您将从一个功能齐全的应用程序开始，该应用程序包括一个包含教师卡和学生卡的仪表盘。目标是实现城市卡。
 
@@ -45,7 +46,7 @@ sidebar:
 - `CardComponent` 不应包含任何 `NgIf` 或 `NgSwitch` 。
 - CSS:尽量避免使用 `::ng-deep` 。寻找更好的方法来处理CSS样式。
 
-## 挑战奖励
+## 额外挑战
 
 - 尝试使用新的内置控制流语法for循环和条件语句(文档在[这里](https://angular.dev/guide/templates/control-flow))
 - 使用signal API来管理组件状态(文档在[这里](https://angular.dev/guide/signals))

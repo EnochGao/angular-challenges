@@ -4,6 +4,7 @@ description: 贡献指南
 contributors:
   - tomalaforge
   - jdegand
+  - enochgao
 sidebar:
   order: 4
 ---

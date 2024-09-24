@@ -3,6 +3,7 @@ title: 变基分支
 description: 将分支变基到最新更改的指南
 contributors:
   - tomalaforge
+  - enochgao
 sidebar:
   order: 6
 ---
